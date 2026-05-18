@@ -71,3 +71,5 @@ Your final evaluation requires a solid justification. Structure your short paper
 
 ##paper 1 Link; 
 https://pmc.ncbi.nlm.nih.gov/articles/PMC11408408/#Fig3
+## Paper 2 Link 
+https://link.springer.com/article/10.1007/s11276-024-03726-0
