@@ -69,6 +69,5 @@ Your final evaluation requires a solid justification. Structure your short paper
 
 ---
 
-This approach bypasses the massive time sink of antenna physical modeling while delivering exactly what a doctoral-level computer science evaluation wants to see: data handling, scientific justification, and functional implementation.
-
-Which programming language or framework setup do you feel most comfortable spinning up over the weekend to build the user interface for this?
+##paper 1 Link; 
+https://pmc.ncbi.nlm.nih.gov/articles/PMC11408408/#Fig3
